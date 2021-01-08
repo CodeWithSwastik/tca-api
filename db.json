@@ -1,0 +1,123 @@
+{
+	"staff":
+	[
+
+		{ "id":556119013298667520,
+		  "username": "Swas.py",
+		  "discriminator": "7370",
+		  "position": "Owner",
+		  "joined_at": "2/25/2020"
+		},
+
+		{ "id":661717104914858038,
+		  "username": "Nick2020",
+		  "discriminator": "4710",
+		  "position": "Admin",
+		  "joined_at": "09/17/2020"
+		},
+
+		{ "id":531872818791448577,
+		  "username": "Waykl",
+		  "discriminator": "3030",
+		  "position": "Admin",
+		  "joined_at": "09/16/2020"
+		},
+
+		{ "id":690420846774321221,
+		  "username": "BobDotCom",
+		  "discriminator": "0001",
+		  "position": "Head Moderator",
+		  "joined_at": "10/26/2020"
+		},
+
+		{ "id":739921445592760330,
+		  "username": "Bitwise",
+		  "discriminator": "1234",
+		  "position": "Senior Moderator",
+		  "joined_at": "12/08/2020"
+		},
+
+		{ "id":698225613617496094,
+		  "username": "ShadowX",
+		  "discriminator": "3244",
+		  "position": "Senior Moderator",
+		  "joined_at": "12/19/2020"
+		},
+
+		{ "id":280667989370732545,
+		  "username": "okct",
+		  "discriminator": "1235",
+		  "position": "Senior Moderator",
+		  "joined_at": "09/16/2020"
+		},
+
+		{ "id":724982934154510407,
+		  "username": "capslock",
+		  "discriminator": "4620",
+		  "position": "Moderator",
+		  "joined_at": "08/27/2020"
+		},
+
+		{ "id":582085106991104000,
+		  "username": "Tubbus",
+		  "discriminator": "0001",
+		  "position": "Moderator",
+		  "joined_at": "10/15/2020"
+		},
+
+
+		{ "id":668676211991380010,
+		  "username": "ChocolateEye",
+		  "discriminator": "4409",
+		  "position": "Moderator",
+		  "joined_at": "12/21/2020"
+		}
+
+	],
+
+	"honorable":
+	[
+
+		{ "id":491630879085559808,
+		  "username": "Daftscientist",
+		  "discriminator": "0001",
+		  "known_for": "Made Coding Bot v.2"
+		},
+
+		{ "id":587663056046391302,
+		  "username": "PGamerX",
+		  "discriminator": "7851",
+		  "known_for": "One of the first people to join TCA"
+		},
+
+		{ "id":673105565689446409,
+		  "username": "TAPU",
+		  "discriminator": "9161",
+		  "known_for": "One of the first people to join TCA. Also a close friend of Swas."
+		},
+
+
+		{ "id":579326961038524446,
+		  "username": "Happy Days",
+		  "discriminator": "8275",
+		  "known_for": "One of the first admins. Hosted Coding Bot v.2"
+		},
+
+
+		{ "id":589768200766619659,
+		  "username": "sohamb03",
+		  "discriminator": "0001",
+		  "known_for": "1st person to join TCA"
+		},
+
+
+		{ "id":315098355913064461,
+		  "username": "FiireWiinter",
+		  "discriminator": "0001",
+		  "known_for": "One of the first people to join TCA"
+		}
+	]
+
+}
+
+
