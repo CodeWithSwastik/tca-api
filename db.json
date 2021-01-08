@@ -1,0 +1,21 @@
+{
+	"mods":
+	[
+
+		{ "id":698225613617496094,
+		  "username": "ShadowX",
+		  "discriminator": 3244,
+		  "position": "Senior Moderator",
+		  "joined_at": "12/19/2020"
+		},
+
+		{ "id":668676211991380010,
+		  "username": "ChocolateEye",
+		  "discriminator": 4409,
+		  "position": "Moderator",
+		  "joined_at": "12/21/2020"
+		}
+
+
+	]
+}
