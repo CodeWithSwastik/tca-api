@@ -3,3 +3,4 @@ aiocache
 python-dotenv
 uvicorn
 gunicorn
+aiohttp
