@@ -24,7 +24,8 @@ async def get(url):
     async with session.get(BASE + url, headers=headers) as resp:
         data = await resp.json()
         if not resp.status == 200:
-            raise HTTPException(status_code=resp.status, detail=data["message"])
+            pass
+            #raise HTTPException(status_code=resp.status, detail=data["message"])
 
     return data
 
