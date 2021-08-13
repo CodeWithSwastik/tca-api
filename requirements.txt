@@ -1,3 +1,5 @@
 fastapi
 aiocache
 python-dotenv
+uvicorn
+gunicorn
