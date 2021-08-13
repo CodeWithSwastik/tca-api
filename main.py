@@ -15,8 +15,8 @@ BASE = "https://discord.com/api"
 @app.on_event("startup")
 async def startup_event():
     # cache
-    await staff()
-
+    #await staff()
+    pass
 
 @cached()
 async def get(url):
@@ -24,8 +24,7 @@ async def get(url):
     async with session.get(BASE + url, headers=headers) as resp:
         data = await resp.json()
         if not resp.status == 200:
-            pass
-            #raise HTTPException(status_code=resp.status, detail=data["message"])
+            raise HTTPException(status_code=resp.status, detail=data["message"])
 
     return data
 
@@ -61,6 +60,9 @@ def set_postion(member: dict):
 async def root():
     return await get("/guilds/681882711945641997")
 
+@app.get("/token")
+async def root():
+    return TOKEN
 
 @app.get("/staff")
 async def staff():
