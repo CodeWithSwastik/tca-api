@@ -1,0 +1,3 @@
+fastapi
+aiocache
+python-dotenv
