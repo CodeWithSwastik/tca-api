@@ -60,9 +60,6 @@ def set_postion(member: dict):
 async def root():
     return await get("/guilds/681882711945641997")
 
-@app.get("/token")
-async def root():
-    return TOKEN
 
 @app.get("/staff")
 async def staff():
